@@ -175,3 +175,9 @@
     line-height: 70px;
   }
 }
+
+@media screen and (min-width:1150px) {
+  .wrapper-img {
+    width: 50%
+  }
+}
