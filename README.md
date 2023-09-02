@@ -6,7 +6,7 @@ restaurant-App
 - gallery of images with scroll
 ## Project Link and Screenshot  
 [Go Live](https://restaurant-app-deployed.netlify.app/)  
-![Screenshot](assets/Restaurant-App.png)
+![Screenshot](src/assets/Restaurant-App.png)
 ## Technologies Used  
 React  
  - file and folder structure
