@@ -1,5 +1,5 @@
 ## Project Name 
-Restaurant-App
+restaurant-App
 ## General  
 - view the optimal layout for the app depending on device's screen size
 - navigate to internal links via navigation bar
